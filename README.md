@@ -133,7 +133,7 @@ The architecture leverages a mix of **Enterprise Integration Patterns** and stan
 | Resource       | Description                   | Link                                                                             |
 |:---------------|:------------------------------|:---------------------------------------------------------------------------------|
 | **Swagger UI** | Interactive API Documentation | [Open Docs](https://macrotracker.uk/swagger-ui)                                  |
-| **Docker Hub** | Official Docker Images        | [View Images](https://hub.docker.com/repository/docker/olehprukhnytskyi/general) |
+| **Docker Hub** | Official Docker Images        | [View Images](https://hub.docker.com/repositories/olehprukhnytskyi?search=macro-tracker) |
 > **Note:** For private endpoints, you need to authorize using the `Bearer <token>` scheme.
 
 ---
